@@ -1,0 +1,9 @@
+Primero descarga el GameUserSettings. Una vez descargado sigue estos pasos.
+
+1. Ctrl+C al GameUserSettings.ini
+2. Windows+R y escribe %localappdata%
+3. Encuentra la carpeta llamada FortniteGame
+4. Entra a Saved
+5. Luego a Config
+6. WindowsClient
+7. Y por ultimo haz Ctrl+V para pegarlo y si te dice de reemplazar algo dile que si.
