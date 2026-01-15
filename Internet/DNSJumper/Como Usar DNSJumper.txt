@@ -1,0 +1,9 @@
+Como Usar DNSJumper
+
+1. Dale Click a DNS más rápido
+2. Dale Click a Iniciar prueba de DNS
+3. Luego abajo en Aplicar Servidor DNS y cierra la pestaña
+4. Luego a Limpiar DNS
+
+y listo.
+Ya puedes cerrar la aplicación
