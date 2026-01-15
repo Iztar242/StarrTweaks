@@ -1,0 +1,1 @@
+Dale al boton de importar, selecciona esta carpeta, dale click al archivo .nip y por ultimo dale al boton de arriba a la izquierda "Apply Changes"
